@@ -58,5 +58,5 @@ print("Hello", name)
 age = int(input("Enter your age: "))
 print("You are", age, "years old")
 
-# ✅ Today I practiced functions, list, tuple, dictionary, and I/O.
+ ✅ Today I practiced functions, list, tuple, dictionary, and I/O.
 
