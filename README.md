@@ -1,42 +1,49 @@
 # 🐍 Python Learning Journey
 
-Welcome to my Python learning journal!  
-This repository tracks my daily progress as I explore Python programming from scratch with a focus on **Data Science & Machine Learning** foundations.
+Welcome to my Python learning log!  
+This repository contains *daily notes*, concepts, and code snippets I wrote while learning Python from scratch.  
+I’m currently following beginner-friendly tutorials from [Apna College](https://www.youtube.com/@ApnaCollegeOfficial) and applying what I learn through small projects and challenges.
 
 ---
 
-## 📅 Daily Progress Overview
+## 📅 Learning Progress
 
-| Day     | Topics Covered                                     |
-|---------|----------------------------------------------------|
-| Day 1   | Variables, Data Types, Typecasting, Input          |
-| Day 2   | Strings, String Methods, If-Else, Conditionals     |
-| Day 3   | Loops (for, while), Basic List Introduction        |
-| Day 4   | Functions, Lists, Tuples, Dictionaries             |
-
----
-
-## 📘 Learning Source
-
-I'm following the **Apna College – Python Course**:  
-📺 [Apna College Python Playlist](https://www.youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)
-
-I’m also supplementing this learning with:
-- Daily note-taking in GitHub markdown
-- Practice coding examples and mini projects
+| Day       | Topics Covered                              |
+|-----------|----------------------------------------------|
+| Day 1     | Variables, Data Types, Input/Output          |
+| Day 2     | Strings, String Methods, If-Else Statements  |
+| Day 3     | Loops (for, while), List Basics              |
+| Day 4     | Functions, Lists, Tuples, Dictionaries       |
 
 ---
 
-## 💡 Why This Repo Exists
+## 📘 Folder Structure
 
-- To build my Python base strongly for future Data Science projects  
-- To maintain public proof of my learning journey  
-- To share helpful beginner-level content with others
+Each topic is saved in a separate markdown file:
+
+- Day_01_Basics.md – Variables, Input, Typecasting  
+- Day_02_Strings.md – String handling, conditionals  
+- Day_03_Loops.md – Loops, logic building  
+- Day_04_Functions.md – Functions and returns  
+- Day_04_1_Lists.md – Lists and list methods  
+- Day_04_2_Tuples.md – Tuples and immutability  
+- Day_04_3_Dictionaries.md – Key–value storage in Python
 
 ---
 
-📌 I update this repository **every day**.  
-Feel free to explore the files and watch my journey grow step by step. 🚀  
+## 🎯 Why I’m Doing This
+
+- To build a strong Python foundation for *Data Science & Machine Learning*  
+- To track my growth and stay consistent  
+- To create a GitHub repo that reflects my learning path
+
+---
+
+📌 I update this repository *daily* with fresh notes and examples.  
+Follow along, or feel free to use these files to revise your own concepts.
+
+Let’s grow together 🚀  
+— MCA Student, Aspiring Data Scientist 💙
 
 
 ---
