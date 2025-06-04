@@ -1,26 +1,43 @@
 # 🐍 Python Learning Journey
 
-This repository contains my daily notes and hands-on practice as I learn Python from scratch.  
-I'm following beginner-friendly videos from [Apna College](https://www.youtube.com/@ApnaCollegeOfficial) and documenting what I learn — day by day.
+Welcome to my Python learning journal!  
+This repository tracks my daily progress as I explore Python programming from scratch with a focus on **Data Science & Machine Learning** foundations.
 
 ---
 
-## 📅 Progress Overview
+## 📅 Daily Progress Overview
 
-| Day    | Topics Covered                       |
-|--------|--------------------------------------|
-| Day 1  | Variables, Input, Data Types         |
-| Day 2  | Strings, String Methods, If-Else     |
-| Day 3  | Loops (for, while), Lists            |
-| Day 4  | Functions, Parameters, Return Value  |
+| Day     | Topics Covered                                     |
+|---------|----------------------------------------------------|
+| Day 1   | Variables, Data Types, Typecasting, Input          |
+| Day 2   | Strings, String Methods, If-Else, Conditionals     |
+| Day 3   | Loops (for, while), Basic List Introduction        |
+| Day 4   | Functions, Lists, Tuples, Dictionaries             |
 
 ---
 
-## Why I’m Doing This
+## 📘 Learning Source
 
-- To build a strong Python foundation for Data Science & Machine Learning  
-- To stay consistent and track my learning  
-- To help others who are starting their journey like me  
+I'm following the **Apna College – Python Course**:  
+📺 [Apna College Python Playlist](https://www.youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)
+
+I’m also supplementing this learning with:
+- Daily note-taking in GitHub markdown
+- Practice coding examples and mini projects
+
+---
+
+## 💡 Why This Repo Exists
+
+- To build my Python base strongly for future Data Science projects  
+- To maintain public proof of my learning journey  
+- To share helpful beginner-level content with others
+
+---
+
+📌 I update this repository **every day**.  
+Feel free to explore the files and watch my journey grow step by step. 🚀  
+
 
 ---
 
