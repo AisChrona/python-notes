@@ -28,6 +28,8 @@ Each topic is saved in a separate markdown file:
 - Day_04_1_Lists.md – Lists and list methods  
 - Day_04_2_Tuples.md – Tuples and immutability  
 - Day_04_3_Dictionaries.md – Key–value storage in Python
+- 📁 [File I/O](file-io.md) — Reading/Writing files in Python, file modes, and best practices using `with`.
+
 
 ---
 
