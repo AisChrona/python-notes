@@ -29,6 +29,20 @@ Each topic is saved in a separate markdown file:
 - Day_04_2_Tuples.md – Tuples and immutability  
 - Day_04_3_Dictionaries.md – Key–value storage in Python
 - Day_05(file-io.md) — Reading/Writing files in Python, file modes, and best practices using `with`.
+  
+
+
+## 🔧 Functions in Python
+
+| Concept             | Description                                                                 |
+|----------------------|-----------------------------------------------------------------------------|
+| `def` keyword        | Used to define a function                                                   |
+| Parameters           | Input values passed to a function                                           |
+| Return Statement     | Sends a result back to the caller                                           |
+| Default Arguments    | Parameters with default values if not provided                             |
+| Keyword Arguments    | Calling functions with named arguments                                      |
+| Variable Arguments   | `*args` for multiple positional arguments, `**kwargs` for keyword arguments |
+
 
 
 ## 📂 File I/O in Python
