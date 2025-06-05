@@ -28,7 +28,21 @@ Each topic is saved in a separate markdown file:
 - Day_04_1_Lists.md – Lists and list methods  
 - Day_04_2_Tuples.md – Tuples and immutability  
 - Day_04_3_Dictionaries.md – Key–value storage in Python
-- 📁 [File I/O](file-io.md) — Reading/Writing files in Python, file modes, and best practices using `with`.
+- Day_05(file-io.md) — Reading/Writing files in Python, file modes, and best practices using `with`.
+
+
+## 📂 File I/O in Python
+
+| Task               | Description                                                                 |
+|--------------------|-----------------------------------------------------------------------------|
+| `open()`           | Used to open a file. Modes include `'r'`, `'w'`, `'a'`, `'r+'`, etc.        |
+| `read()`           | Reads the entire content of the file as a string.                          |
+| `readline()`       | Reads one line at a time.                                                  |
+| `readlines()`      | Returns a list where each element is a line in the file.                   |
+| `write()`          | Writes content to a file (overwrites in `'w'` mode).                        |
+| `append()`         | Adds new content at the end of the file (`'a'` mode).                       |
+| `with open(...)`   | Best practice to open files (auto-closes file).                            |
+| Common Modes       | `r` = Read, `w` = Write, `a` = Append, `r+` = Read & Write                 |
 
 
 ---
